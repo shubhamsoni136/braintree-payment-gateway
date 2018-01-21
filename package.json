@@ -1,0 +1,26 @@
+{
+  "name": "braintree",
+  "version": "1.0.0",
+  "description": "braintree payment gateway",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamsony/braintree-payment-gateway.git"
+  },
+  "author": "shubham soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamsony/braintree-payment-gateway/issues"
+  },
+  "homepage": "https://github.com/shubhamsony/braintree-payment-gateway#readme",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*",
+    "path": "*",
+    "braintree": "*"
+  }
+}
