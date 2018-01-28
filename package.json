@@ -21,6 +21,7 @@
     "express": "*",
     "ejs": "*",
     "path": "*",
+    "body-parser": "*",
     "braintree": "*"
   }
 }
